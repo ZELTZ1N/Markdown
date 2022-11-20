@@ -13,4 +13,6 @@ Xq si solo das enter no baja de linea
       2. Miau Miau 2
 
 [ASCII](https://elcodigoascii.com.ar/)  
+  
+Usando tecla Windows + . Sale la ventanita para emojis  
 (❁´◡`❁)
