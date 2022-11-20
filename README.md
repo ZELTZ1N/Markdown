@@ -15,5 +15,6 @@ Xq si solo das enter no baja de linea
 [ASCII](https://elcodigoascii.com.ar/)  
   
 Usando tecla Windows + . Sale la ventanita para emojis  
-(❁´◡`❁)  
+♈ 🫀 😺   
+## Para agregar imagenes  
 ![MMC](fig/Imagen1.png)
