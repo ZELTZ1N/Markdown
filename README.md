@@ -16,3 +16,4 @@ Xq si solo das enter no baja de linea
   
 Usando tecla Windows + . Sale la ventanita para emojis  
 (❁´◡`❁)
+![MMC](files/image.png)
